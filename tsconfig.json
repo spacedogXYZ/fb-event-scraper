@@ -6,6 +6,7 @@
     "target": "es5",
     "allowSyntheticDefaultImports": true,
     "declaration": false,
+    "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "inlineSourceMap": true,
     "inlineSources": true,

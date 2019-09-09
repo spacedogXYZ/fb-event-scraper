@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -e ts -x ts-node src/index.ts",
-    "build:once": "tsc",
+    "build": "tsc",
     "lint": "tslint .",
     "up": "docker-compose up -d",
     "up:dev": "docker-compose up",
